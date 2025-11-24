@@ -14,6 +14,7 @@ status-website:
   cname: status.ecotool.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/ecotoolorg/upptime/refs/heads/master/assets/logo.svg
+  favicon: https://app.ecotool.org/favicon.ico
   theme: night
   name: EcoTool Status
   introTitle: "**EcoTool** System Status"

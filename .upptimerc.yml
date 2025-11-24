@@ -19,7 +19,7 @@ status-website:
   name: ecotool
   introTitle: "**EcoTool** System Status"
   introMessage: "Real-time uptime and performance for the Ecotool application and documentation site."
-  css: ":root { --body-background-color: #f6f6f6; --body-text-color: #000000; --nav-background-color: #ffffff; --nav-border-bottom-color: #d4d4d4; --nav-current-border-bottom-color: #FF5100; } .logo > div { font-weight: 500; font-size: 1.2em; }"
+  css: ":root { --body-background-color: #fafafa; --body-text-color: #000000; --nav-background-color: #ffffff; --nav-border-bottom-color: #dfdfdf; --nav-current-border-bottom-color: #FF5100; } .logo > div { font-weight: 500; font-size: 1.2em; }"
   navbar:
     - title: Status
       href: /

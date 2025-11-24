@@ -18,7 +18,7 @@ status-website:
   name: EcoTool Status
   introTitle: "**EcoTool** System Status"
   introMessage: "This is the system status page for the EcoTool main application and official documentation."
-  css: ":root { --body-background-color: #000000; --body-text-color: #ffffff; --card-background-color: #121212; --nav-background-color: #000000; --nav-border-bottom-color: #080808; --nav-current-border-bottom-color: #d0d0d0; --card-border-color: #242424; --up-border-left-color: #2ecc71; --tag-up-background-color: #2ecc71; }"
+  css: ":root { --body-background-color: #000000; --body-text-color: #ffffff; --card-background-color: #121212; --nav-background-color: #121212; --nav-border-bottom-color: #181818; --nav-current-border-bottom-color: #d0d0d0; --card-border-color: #242424; --up-border-left-color: #2ecc71; --tag-up-background-color: #2ecc71; }"
   navbar:
     - title: Status
       href: /

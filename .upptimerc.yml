@@ -15,11 +15,11 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/ecotoolorg/upptime/refs/heads/master/assets/logo.svg
   favicon: https://app.ecotool.org/favicon.ico
-  theme: dark
+  theme: light
   name: ecotool
   introTitle: "System Status"
   introMessage: "This is the system status page for the **EcoTool** application and official documentation."
-  css: ":root { --body-background-color: #000000; --body-text-color: #ffffff; --nav-background-color: #000000; --nav-border-bottom-color: #282828; --nav-current-border-bottom-color: #d0d0d0; }"
+  css: ":root { --body-background-color: #ffffff; --body-text-color: #000000; --nav-background-color: #ffffff; --nav-border-bottom-color: #cccccc; --nav-current-border-bottom-color: #222222; } .logo > div { font-weight: 500; font-size: 1.2em; }"
   navbar:
     - title: Status
       href: /

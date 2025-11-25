@@ -22,19 +22,19 @@
     "url": "https://ecotool.org",
     "icon": "https://icons.duckduckgo.com/ip3/ecotool.org.ico",
     "slug": "eco-tool-documentation",
-    "status": "down",
-    "uptime": "98.21%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
-    "time": 1237,
-    "timeDay": 1144,
-    "timeWeek": 1237,
-    "timeMonth": 1237,
-    "timeYear": 1237,
+    "status": "up",
+    "uptime": "97.78%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "97.78%",
+    "time": 1248,
+    "timeDay": 1191,
+    "timeWeek": 1248,
+    "timeMonth": 1248,
+    "timeYear": 1248,
     "dailyMinutesDown": {
-      "2025-11-25": 36
+      "2025-11-25": 45
     }
   }
 ]

@@ -1,23 +1,5 @@
 [
   {
-    "name": "EcoTool App",
-    "url": "https://app.ecotool.org",
-    "icon": "https://ecotool.org/favicon",
-    "slug": "eco-tool-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2057,
-    "timeDay": 1075,
-    "timeWeek": 2057,
-    "timeMonth": 2057,
-    "timeYear": 2057,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "EcoTool Website",
     "url": "https://ecotool.org",
     "icon": "https://ecotool.org/favicon",

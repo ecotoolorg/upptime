@@ -7,10 +7,13 @@ sites:
     url: https://app.ecotool.org
     type: globalping
     location: Zurich
+    icon: https://ecotool.org/favicon
   - name: EcoTool Website
     url: https://ecotool.org
     type: globalping
     location: Zurich
+    icon: https://ecotool.org/favicon
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,7 +21,7 @@ status-website:
   cname: status.ecotool.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/ecotoolorg/upptime/refs/heads/master/assets/logo.svg
-  favicon: https://app.ecotool.org/favicon.ico
+  favicon: https://ecotool.org/favicon.ico
   theme: light
   name: ecotool
   introTitle: "**EcoTool** System Status"

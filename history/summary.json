@@ -1,5 +1,23 @@
 [
   {
+    "name": "EcoTool App",
+    "url": "https://app.ecotool.org",
+    "icon": "https://ecotool.org/favicon",
+    "slug": "eco-tool-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1977,
+    "timeDay": 970,
+    "timeWeek": 1977,
+    "timeMonth": 1977,
+    "timeYear": 1977,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "EcoTool Website",
     "url": "https://ecotool.org",
     "icon": "https://ecotool.org/favicon",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 31,
-    "timeDay": 31,
-    "timeWeek": 31,
-    "timeMonth": 31,
-    "timeYear": 31,
+    "time": 27,
+    "timeDay": 27,
+    "timeWeek": 27,
+    "timeMonth": 27,
+    "timeYear": 27,
     "dailyMinutesDown": {}
   }
 ]

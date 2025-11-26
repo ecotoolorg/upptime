@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2299,
-    "timeDay": 1537,
-    "timeWeek": 2299,
-    "timeMonth": 2299,
-    "timeYear": 2299,
+    "time": 2260,
+    "timeDay": 1568,
+    "timeWeek": 2260,
+    "timeMonth": 2260,
+    "timeYear": 2260,
     "dailyMinutesDown": {}
   },
   {
@@ -28,33 +28,13 @@
     "uptimeWeek": "98.60%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "98.60%",
-    "time": 1235,
-    "timeDay": 1161,
-    "timeWeek": 1235,
-    "timeMonth": 1235,
-    "timeYear": 1235,
+    "time": 1225,
+    "timeDay": 1146,
+    "timeWeek": 1225,
+    "timeMonth": 1225,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2025-11-25": 36
-    }
-  },
-  {
-    "name": "Test",
-    "url": "https://test.error",
-    "icon": "https://icons.duckduckgo.com/ip3/test.error.ico",
-    "slug": "test",
-    "status": "down",
-    "uptime": "6.91%",
-    "uptimeDay": "6.91%",
-    "uptimeWeek": "6.91%",
-    "uptimeMonth": "6.91%",
-    "uptimeYear": "6.91%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-11-26": 0
     }
   }
 ]

@@ -7,12 +7,12 @@ sites:
     url: https://app.ecotool.org
     type: globalping
     location: Zurich
-    icon: https://ecotool.org/favicon
+    icon: https://ecotool.org/favicon.ico
   - name: EcoTool Website
     url: https://ecotool.org
     type: globalping
     location: Zurich
-    icon: https://ecotool.org/favicon
+    icon: https://ecotool.org/favicon.ico
 
 
 status-website:

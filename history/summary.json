@@ -4,18 +4,19 @@
     "url": "https://app.ecotool.org",
     "icon": "https://ecotool.org/favicon.ico",
     "slug": "eco-tool-app",
-    "status": "up",
-    "uptime": "99.90%",
+    "status": "down",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1102,
     "timeDay": 309,
     "timeWeek": 322,
     "timeMonth": 1102,
     "timeYear": 1102,
     "dailyMinutesDown": {
+      "2025-12-17": 0,
       "2025-12-05": 29
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://ecotool.org",
     "icon": "https://ecotool.org/favicon.ico",
     "slug": "eco-tool-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +36,8 @@
     "timeWeek": 26,
     "timeMonth": 23,
     "timeYear": 23,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-17": 0
+    }
   }
 ]

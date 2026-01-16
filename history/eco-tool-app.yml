@@ -1,7 +1,7 @@
 url: https://app.ecotool.org
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-01-16T17:32:31.496Z
+status: up
+code: 302
+responseTime: 290
+lastUpdated: 2026-01-16T17:46:08.587Z
 startTime: 2025-11-26T08:20:39.271Z
 generator: Upptime <https://github.com/upptime/upptime>

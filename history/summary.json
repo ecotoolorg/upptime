@@ -4,19 +4,19 @@
     "url": "https://app.ecotool.org",
     "icon": "https://ecotool.org/favicon.ico",
     "slug": "eco-tool-app",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 646,
     "timeDay": 343,
     "timeWeek": 366,
-    "timeMonth": 555,
+    "timeMonth": 558,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2026-02-26": 27
+      "2026-02-26": 0
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://ecotool.org",
     "icon": "https://ecotool.org/favicon.ico",
     "slug": "eco-tool-website",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 32,
     "timeDay": 30,
     "timeWeek": 35,
     "timeMonth": 37,
     "timeYear": 32,
     "dailyMinutesDown": {
-      "2026-02-26": 27
+      "2026-02-26": 0
     }
   }
 ]

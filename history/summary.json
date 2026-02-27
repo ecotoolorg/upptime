@@ -4,7 +4,7 @@
     "url": "https://app.ecotool.org",
     "icon": "https://ecotool.org/favicon.ico",
     "slug": "eco-tool-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "98.50%",
     "uptimeWeek": "99.79%",
@@ -16,6 +16,7 @@
     "timeMonth": 559,
     "timeYear": 643,
     "dailyMinutesDown": {
+      "2026-02-27": 0,
       "2026-02-26": 22
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://ecotool.org",
     "icon": "https://ecotool.org/favicon.ico",
     "slug": "eco-tool-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "98.50%",
     "uptimeWeek": "99.79%",
@@ -36,6 +37,7 @@
     "timeMonth": 36,
     "timeYear": 32,
     "dailyMinutesDown": {
+      "2026-02-27": 0,
       "2026-02-26": 22
     }
   }
